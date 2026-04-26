@@ -1,0 +1,7 @@
+{
+  "name": "Dynamic_Lighting",
+  "entry": "Dynamic_Lighting.dll",
+  "version": "0.0.0",
+  "type": "native",
+  "platform": "client"
+}

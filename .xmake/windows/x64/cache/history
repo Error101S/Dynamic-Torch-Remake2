@@ -1,19 +1,5 @@
 {
     cmdlines = {
-        "xmake g --proxy_pac=github_mirror.lua",
-        "xmake repo -u",
-        "xmake f -m debug",
-        "xmake ",
-        [[xmake lua C:\Users\keand\xmake\modules\private\utils\statistics.lua]],
-        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\explorer.lua]],
-        "xmake check",
-        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\config.lua]],
-        "xmake ",
-        "xmake ",
-        "xmake ",
-        "xmake check",
-        "xmake check",
-        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\explorer.lua]],
-        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\update_intellisense.lua .vscode clangd]]
+        "xmake check"
     }
 }
