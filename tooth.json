@@ -4,10 +4,10 @@
   "tooth": "github.com/Error101S/Dynamic-Torch-Remake2",
   "version": "1.0.4",
   "info": {
-    "name": "DynamicLights",
-    "description": "This mod brings dynamic lighting to Minecraft",
+    "name": "Dynamic_Lighting",
+    "description": "This mod brings Dynamic_Lighting to Minecraft",
     "tags": [ "platform:levilamina", "type:mod" ],
-    "avatar_url": "https://raw.githubusercontent.com/dreamguxiang/DynamicLights/refs/heads/main/avatar.png"
+    "avatar_url": "https://raw.githubusercontent.com/dreamguxiang/Dynamic_Lighting/refs/heads/main/avatar.png"
   },
   "variants": [
     {
@@ -20,13 +20,13 @@
         {
           "type": "zip",
           "urls": [
-            "https://{{tooth}}/releases/download/v{{version}}/DynamicLights-client-windows-x64.zip"
+            "https://{{tooth}}/releases/download/v{{version}}/Dynamic_Lighting-client-windows-x64.zip"
           ],
           "placements": [
             {
               "type": "dir",
-              "src": "DynamicLights/",
-              "dest": "mods/DynamicLights/"
+              "src": "Dynamic_Lighting/",
+              "dest": "mods/Dynamic_Lighting/"
             }
           ]
         }

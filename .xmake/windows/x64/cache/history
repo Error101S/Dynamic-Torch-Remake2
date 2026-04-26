@@ -8,6 +8,12 @@
         [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\explorer.lua]],
         "xmake check",
         [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\config.lua]],
-        "xmake "
+        "xmake ",
+        "xmake ",
+        "xmake ",
+        "xmake check",
+        "xmake check",
+        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\explorer.lua]],
+        [[xmake l c:\Users\keand\.vscode\extensions\tboox.xmake-vscode-2.5.5\assets\update_intellisense.lua .vscode clangd]]
     }
 }
